@@ -1,4 +1,4 @@
-1.下载cmder_full[网址](https://github.com/cmderdev/cmder/releases/download/v1.3.10/cmder.7z)
+1.下载cmder_full[网址(v1.3.10)](https://github.com/cmderdev/cmder/releases/download/v1.3.10/cmder.7z)
 
 2.配置环境变量：环境变量 –> 系统变量
   1. 新建变量：CMDER_HOME=cmder.exe所在目录
